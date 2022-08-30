@@ -1,0 +1,381 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Povídky",
+  "author": "František Gellner",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "gellner-povidky-69394c8",
+  "revision": "69394c8",
+  "readingOrder": [
+    "promo.html",
+    "povidky_gellner_005.html",
+    "povidky_gellner_006.html",
+    "povidky_gellner_007.html",
+    "povidky_gellner_008.html",
+    "povidky_gellner_009.html",
+    "povidky_gellner_010.html",
+    "povidky_gellner_011.html",
+    "povidky_gellner_012.html",
+    "povidky_gellner_013.html",
+    "povidky_gellner_014.html",
+    "povidky_gellner_015.html",
+    "povidky_gellner_016.html",
+    "povidky_gellner_017.html",
+    "povidky_gellner_018.html",
+    "povidky_gellner_019.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 30 2022 10:55:34 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661856934054
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "povidky_gellner_005.html",
+      "toc": []
+    },
+    {
+      "title": "Cesta do hor",
+      "file": "povidky_gellner_005.html",
+      "words": 1939,
+      "chars": 11681,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "povidky_gellner_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta do hor",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sebevrah Nečásek",
+      "file": "povidky_gellner_006.html",
+      "words": 1467,
+      "chars": 8351,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 2,
+      "prev": "povidky_gellner_005.html",
+      "next": "povidky_gellner_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sebevrah Nečásek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Otec",
+      "file": "povidky_gellner_007.html",
+      "words": 1478,
+      "chars": 8816,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 3,
+      "prev": "povidky_gellner_006.html",
+      "next": "povidky_gellner_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Otec",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Můj společník z cest",
+      "file": "povidky_gellner_008.html",
+      "words": 1883,
+      "chars": 11259,
+      "ideas": 24,
+      "role": "chapter",
+      "order": 4,
+      "prev": "povidky_gellner_007.html",
+      "next": "povidky_gellner_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Můj společník z cest",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Sport a zdraví",
+      "file": "povidky_gellner_009.html",
+      "words": 1718,
+      "chars": 10410,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 5,
+      "prev": "povidky_gellner_008.html",
+      "next": "povidky_gellner_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Sport a zdraví",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konkurenti",
+      "file": "povidky_gellner_010.html",
+      "words": 2704,
+      "chars": 16052,
+      "ideas": 48,
+      "role": "chapter",
+      "order": 6,
+      "prev": "povidky_gellner_009.html",
+      "next": "povidky_gellner_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konkurenti",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Štika",
+      "file": "povidky_gellner_011.html",
+      "words": 2065,
+      "chars": 13144,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 7,
+      "prev": "povidky_gellner_010.html",
+      "next": "povidky_gellner_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Štika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Miltiades, vítěz maratonskýAntický námět v moderním zpracování",
+      "file": "povidky_gellner_012.html",
+      "words": 1428,
+      "chars": 8182,
+      "ideas": 56,
+      "role": "chapter",
+      "order": 8,
+      "prev": "povidky_gellner_011.html",
+      "next": "povidky_gellner_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Miltiades, vítěz maratonskýAntický námět v moderním zpracování",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Výhody nešťastné lásky",
+      "file": "povidky_gellner_013.html",
+      "words": 1559,
+      "chars": 9419,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 9,
+      "prev": "povidky_gellner_012.html",
+      "next": "povidky_gellner_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Výhody nešťastné lásky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Marta",
+      "file": "povidky_gellner_014.html",
+      "words": 1799,
+      "chars": 11009,
+      "ideas": 44,
+      "role": "chapter",
+      "order": 10,
+      "prev": "povidky_gellner_013.html",
+      "next": "povidky_gellner_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Marta",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kalokagathia",
+      "file": "povidky_gellner_015.html",
+      "words": 1881,
+      "chars": 12091,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 11,
+      "prev": "povidky_gellner_014.html",
+      "next": "povidky_gellner_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kalokagathia",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Smysl života",
+      "file": "povidky_gellner_016.html",
+      "words": 2153,
+      "chars": 13199,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 12,
+      "prev": "povidky_gellner_015.html",
+      "next": "povidky_gellner_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Smysl života",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pan oficiál se žení",
+      "file": "povidky_gellner_017.html",
+      "words": 2142,
+      "chars": 13267,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 13,
+      "prev": "povidky_gellner_016.html",
+      "next": "povidky_gellner_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pan oficiál se žení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Katonova poslední četba",
+      "file": "povidky_gellner_018.html",
+      "words": 1785,
+      "chars": 11061,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 14,
+      "prev": "povidky_gellner_017.html",
+      "next": "povidky_gellner_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Katonova poslední četba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť strýce Jindřicha",
+      "file": "povidky_gellner_019.html",
+      "words": 2144,
+      "chars": 12666,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 15,
+      "prev": "povidky_gellner_018.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Závěť strýce Jindřicha",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 142,
+      "chars": 936,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
+      "prev": "povidky_gellner_019.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 28291,
+      "chars": 171570,
+      "ideas": 617
+    },
+    "chapters": {
+      "words": 28145,
+      "chars": 170607,
+      "ideas": 596
+    }
+  }
+}
