@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "gellner-povidky-69394c8",
-  "revision": "69394c8",
+  "identifier": "gellner-povidky-cb3205f",
+  "revision": "cb3205f",
   "readingOrder": [
     "promo.html",
     "povidky_gellner_005.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Aug 30 2022 10:55:34 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1661856934054
+    "date": "Thu Sep 29 2022 21:23:11 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486591598
   },
   "documents": [
     {
